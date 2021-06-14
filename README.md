@@ -11,3 +11,20 @@ Human Activity Recognition using Smartphone's Data
 - Model Selection and fine-tuning of parameters.
 - Model Training.
 - Making Predictions, Visualizing Result and Conclusion.
+
+## Tasks completed
+- Data Visualization
+- Cleaning and analysis of Data
+- Checking the correlation of features
+- Dimensionality Reduction
+- Data Preprocessing and Labelling
+- Random Forest Classifier Implemented
+- Extra Tree Classifoer Implemented
+- Linear SVM Classifier Implemented
+- Gaussiam SVM Classifier Implemented
+- Visualization of results for all the above models
+
+
+## Tasks to be done
+- Implementing some other ML Models
+- Final Conclusion
